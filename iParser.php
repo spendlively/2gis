@@ -1,5 +1,5 @@
 <?php
-namespace Parser;
+namespace Gis;
 
 interface iParser {
 
